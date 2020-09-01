@@ -30,18 +30,18 @@
       <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
 
       <!-- Vendor CSS Files -->
-      <link href="<?= base_url();?>assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-      <link href="<?= base_url();?>assets/vendor/icofont/icofont.min.css" rel="stylesheet" />
-      <link href="<?= base_url();?>assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet" />
-      <link href="<?= base_url();?>assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet" />
-      <link href="<?= base_url();?>assets/vendor/venobox/venobox.css" rel="stylesheet" />
+      <link href="<?= base_url();?>/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+      <link href="<?= base_url();?>/assets/vendor/icofont/icofont.min.css" rel="stylesheet" />
+      <link href="<?= base_url();?>/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet" />
+      <link href="<?= base_url();?>/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet" />
+      <link href="<?= base_url();?>/assets/vendor/venobox/venobox.css" rel="stylesheet" />
       <!-- animasi scrolling -->
       <link href="<?= base_url();?>/assets/vendor/remixicon/remixicon.css" rel="stylesheet" />
       <!-- konfigurasi map -->
       <link href="<?= base_url();?>/assets/vendor/aos/aos.css" rel="stylesheet" />
 
       <!-- Template Main CSS File -->
-      <link href="<?= base_url();?>assets/css/style.css" rel="stylesheet" />
+      <link href="<?= base_url();?>/assets/css/style.css" rel="stylesheet" />
 
       <!-- =======================================================
     * Template Name: Gp - v2.1.0
@@ -49,14 +49,6 @@
     * Author: BootstrapMade.com
     * License: https://bootstrapmade.com/license/ -->
 
-<<<<<<< HEAD:application/views/templates/header.php
-=======
-    <!-- Optional JavaScript -->
-
-
-
-
->>>>>>> d904745d038e53ba74e59dd0333221bffdd96e56:application/views/landing/templates/header.php
     <title><?= $judul; ?></title>
   </head>
   <body>
@@ -65,11 +57,6 @@
 
         <h1 class="logo">
           <img src="<?= base_url();?>/assets/img/favicon.png" alt="logo dbmpr" class="img-fluid" />
-<<<<<<< HEAD:application/views/templates/header.php
-          <a href="<?= base_url();?>">Teman Jabar<span>.</span></a>
-=======
-          <a class="logo" style="color: white" href="<?= base_url();?>home/index">Teman Jabar</a>
->>>>>>> d904745d038e53ba74e59dd0333221bffdd96e56:application/views/landing/templates/header.php
         </h1>
 
         <!-- Uncomment below if you prefer to use an image logo -->

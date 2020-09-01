@@ -163,7 +163,7 @@ h6 {
 }
 
 #header .logo {
-	font-size: 28px;
+	font-size: 32px;
 	margin: 0;
 	padding: 0;
 	line-height: 1;
@@ -217,7 +217,7 @@ h6 {
 	position: relative;
 	color: #fff;
 	transition: 0.3s;
-	font-size: 14px;
+	font-size: 15px;
 	font-family: "Open Sans", sans-serif;
 	font-weight: 600;
 }
@@ -518,6 +518,7 @@ h6 {
 	padding: 30px 20px;
 	transition: ease-in-out 0.3s;
 	border: 1px solid rgba(255, 255, 255, 0.3);
+	min-height: 100%;
 	text-align: center;
 	overflow: hidden;
 }
@@ -533,7 +534,7 @@ h6 {
 	margin: 10px 0 0 0;
 	padding: 0;
 	line-height: 1;
-	font-size: 0.8em;
+	font-size: 15px;
 	line-height: 26px;
 }
 
@@ -586,15 +587,6 @@ h6 {
 	.carousel h2 {
 		font-size: 20px;
 		line-height: 24px;
-	}
-
-	.carousel .icon-box {
-		padding: 30px 20px;
-		transition: ease-in-out 0.3s;
-		border: 1px solid rgba(255, 255, 255, 0.3);
-		min-height: 200px;
-		text-align: center;
-		overflow: hidden;
 	}
 }
 

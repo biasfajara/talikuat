@@ -77,13 +77,10 @@ $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
 	'username' => 'root',
-<<<<<<< HEAD
 	'password' => 'root',
 	'database' => '',
-=======
 	'password' => '',
 	'database' => 'talikuat',
->>>>>>> d904745d038e53ba74e59dd0333221bffdd96e56
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
